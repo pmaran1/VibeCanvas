@@ -1,0 +1,5 @@
+{
+  "name": "VibeCanvas AI",
+  "description": "A lightweight, aesthetic tool that transforms your mood or 'vibe' into a unique color palette and AI-generated abstract art using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
